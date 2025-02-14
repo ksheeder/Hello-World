@@ -22,6 +22,6 @@ My first repsitory
 
 ## Additional Documentation
 
-##Versioning
+## Versioning
 
-##New Title
+## New Title
