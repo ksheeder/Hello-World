@@ -2,27 +2,27 @@
 My first repsitory
 
 ## Table of Contents
+**Use the hyperlinks to be directed to that page**
 
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-Run-Program)
-- [FILES USED](#Files-Used)
-- [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
-- [VERSIONING](#Versioning)
-- [NEW TITLE](#New-Title)
+1. [Project Title](#Project-Title)
+2. [Description](#Description)
+3. [How to Run Program](#How-to-Run-Program)
+4. [Files Used](#Files-Used)
+5. [Additional Documentation](#Additional-Documentation)
+6. [Versioning](#Versioning)
 
 ## Project Title
-*Hello World Sample*
+### Hello World Sample
 
 ## Description
-Creating a new branch
+*Learning how to use GitHub with this sample repository!*
 
 ## How to Run Program
+*N/A*
 
 ## Files Used
 
 ## Additional Documentation
+~~Trying strikethrough~~
 
 ## Versioning
-
-## New Title
